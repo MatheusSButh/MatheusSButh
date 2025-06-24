@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💬 Olá! Meu nome é Matheus e atualmente estou trabalhando para ingressar na área de desenvolvimento, tenho muito interesse por tecnologia e desenvolvimento de software.<br><br>💻 Atualmente, estou focado em aprender e aprimorar minhas habilidades em Java, junto com Spring Boot, JPA, MySQL, PostgreSQL e áfins.</p>
+<p align="left">💬 Olá! Meu nome é Matheus e atualmente estou trabalhando para ingressar na área de desenvolvimento, tenho muito interesse por tecnologia e desenvolvimento de software.<br><br>💻 Estou focado em aprender e aprimorar minhas habilidades, para assim, poder participar e atuar em grandes projetos.</p>
 
 ###
 
@@ -15,9 +15,13 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
 
 ###
