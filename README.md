@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💬 Olá! Meu nome é Matheus e atualmente estou trabalhando para ingressar na área de desenvolvimento, tenho muito interesse por tecnologia e desenvolvimento de software.<br><br>💻 Estou focado em aprender e aprimorar minhas habilidades, para assim, poder participar e atuar em grandes projetos.</p>
+<p align="left">💬 Olá! Meu nome é Matheus e atualmente estou trabalhando para ingressar na área de desenvolvimento, tenho muito interesse por tecnologia e desenvolvimento de software.<br><br>💻 Estou focado em aprender e aprimorar minhas habilidades, para assim, participar e atuar com eficácia em grandes projetos.</p>
 
 ###
 
@@ -36,18 +36,3 @@
 </div>
 
 ###
-
-<!--
-**MatheusSButh/MatheusSButh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
